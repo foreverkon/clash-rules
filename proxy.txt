@@ -2,3 +2,4 @@ payload:
   - '+.space'
   - '+.gay'
   - '+.gtloli.top'
+  - '+.antv.vision'
