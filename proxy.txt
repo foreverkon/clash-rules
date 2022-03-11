@@ -3,3 +3,4 @@ payload:
   - '+.gay'
   - '+.gtloli.top'
   - '+.antv.vision'
+  - '+.hutao.cloud'
