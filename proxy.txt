@@ -4,3 +4,4 @@ payload:
   - '+.gtloli.top'
   - '+.antv.vision'
   - '+.hutao.cloud'
+  - '+.feimaoyun.com'
